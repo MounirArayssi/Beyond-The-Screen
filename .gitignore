@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw and derived data
+data/source/
+data/processed/
+
+# Temporary files
+*.log
+.env
+.DS_Store
